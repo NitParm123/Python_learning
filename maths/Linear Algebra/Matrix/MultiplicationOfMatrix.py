@@ -9,7 +9,6 @@ def main():
   print("Result of A x B:")
   for row in result:
     print(row)
-  
 
 
 def matrix_multiply(A, B):
